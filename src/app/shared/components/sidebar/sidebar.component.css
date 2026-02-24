@@ -1,0 +1,11 @@
+nav {
+  width: 200px;
+  background: #eee;
+  padding: 15px;
+}
+
+a {
+  display: block;
+  margin-bottom: 10px;
+  text-decoration: none;
+}
