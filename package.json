@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "my-first-angular-app",
-=======
   "name": "my-angular-project",
->>>>>>> 9aa4607eca7340adfabe5f0e1919ee219abc50d2
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -26,13 +22,8 @@
     "zone.js": "~0.15.0"
   },
   "devDependencies": {
-<<<<<<< HEAD
-    "@angular-devkit/build-angular": "^19.2.20",
-    "@angular/cli": "^19.2.20",
-=======
     "@angular-devkit/build-angular": "^19.2.3",
     "@angular/cli": "^19.2.3",
->>>>>>> 9aa4607eca7340adfabe5f0e1919ee219abc50d2
     "@angular/compiler-cli": "^19.2.0",
     "@types/jasmine": "~5.1.0",
     "jasmine-core": "~5.6.0",
